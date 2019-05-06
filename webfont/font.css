@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'gillsans';
+	src: url('gillsans/gillsans.eot');
+	src: local('gillsans'), url('gillsans/gillsans.woff') format('woff'), url('gillsans/gillsans.ttf') format('truetype');
+}
+
+
+@font-face {
+	font-family: 'frutiger';
+	src: url('frutiger/frutiger.eot');
+	src: local('frutiger'), url('frutiger/frutiger.woff') format('woff'), url('frutiger/frutiger.ttf') format('truetype');
+}

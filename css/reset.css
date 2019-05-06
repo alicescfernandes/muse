@@ -1,0 +1,22 @@
+﻿/*Reset.css V3 | Alice Fernandes | 27-11-2013 | 20:14
+NÃO MODIFICAR ESTE FICHEIRO. */
+
+html{
+width:100%;
+height:100%;
+}
+
+
+body {
+line-height:1;
+width:100%;
+height:100%;
+}
+
+img {border:none;}
+
+*{margin:0;padding:0;}
+
+table {margin:auto;border-collapse:collapse;}
+
+a {text-decoration:none; color:#FFFFFF;}
